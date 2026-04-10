@@ -1,4 +1,4 @@
-
+**The Chinese version of the README is located in README-zh.md**
 
 ## Notice
 
